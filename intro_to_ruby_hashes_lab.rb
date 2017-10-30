@@ -1,6 +1,6 @@
 def new_hash
   new_hash = {
-		:actor => {name: "Dwayne The Rock Johnson"}
+		
 	}
 end
 new_hash
